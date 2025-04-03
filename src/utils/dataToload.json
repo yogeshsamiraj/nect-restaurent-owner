@@ -1,0 +1,17 @@
+[
+    {
+        "type": "Indicators",
+        "key": "Orders",
+        "set": "count",
+        "value": 0
+    },
+    {
+        "type": "Charts",
+        "key": "Orders"
+    },
+    {
+        "type": "List",
+        "key": "Orders",
+        "column": ["Order_ID","Order_Status","Customer_Name","Delivery_Status"]
+    }
+]

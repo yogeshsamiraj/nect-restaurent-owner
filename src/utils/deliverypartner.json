@@ -1,0 +1,63 @@
+[
+    {
+      "ID": 1,
+      "Name": "Sarah Johnson",
+      "Contact_No": "+1-123-456-7890",
+      "Address": "123 Main St, New York, NY 10001"
+    },
+    {
+      "ID": 2,
+      "Name": "David Lee",
+      "Contact_No": "+1-987-654-3210",
+      "Address": "456 Elm St, San Francisco, CA 94102"
+    },
+    {
+      "ID": 3,
+      "Name": "Emily Parker",
+      "Contact_No": "+1-555-789-1234",
+      "Address": "789 Maple Ave, Chicago, IL 60601"
+    },
+    {
+      "ID": 4,
+      "Name": "James Smith",
+      "Contact_No": "+1-222-333-4444",
+      "Address": "321 Oak St, Miami, FL 33101"
+    },
+    {
+      "ID": 5,
+      "Name": "Olivia Martinez",
+      "Contact_No": "+1-666-777-8888",
+      "Address": "555 Pine St, Seattle, WA 98101"
+    },
+    {
+      "ID": 6,
+      "Name": "Michael Brown",
+      "Contact_No": "+1-999-888-7777",
+      "Address": "777 Birch Rd, Austin, TX 73301"
+    },
+    {
+      "ID": 7,
+      "Name": "Sophia Davis",
+      "Contact_No": "+1-444-555-6666",
+      "Address": "888 Cedar Ave, Denver, CO 80201"
+    },
+    {
+      "ID": 8,
+      "Name": "William Taylor",
+      "Contact_No": "+1-111-222-3333",
+      "Address": "999 Walnut St, Boston, MA 02101"
+    },
+    {
+      "ID": 9,
+      "Name": "Isabella Wilson",
+      "Contact_No": "+1-777-666-5555",
+      "Address": "123 Spruce Dr, Portland, OR 97201"
+    },
+    {
+      "ID": 10,
+      "Name": "Ethan White",
+      "Contact_No": "+1-333-444-5555",
+      "Address": "456 Redwood Blvd, Los Angeles, CA 90001"
+    }
+  ]
+  
