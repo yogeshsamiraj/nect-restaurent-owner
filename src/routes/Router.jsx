@@ -12,8 +12,8 @@ const ThemeRoutes = [
     path: "/",
     element: <FullLayout />,
     children: [
-      { path: "/", element: <Navigate to="/" /> },
-      { path: "/", element: <Dashboard /> },
+      { path: "/", element: <Navigate to="/dashboard" /> },
+      { path: "/dashboard", element: <Dashboard /> },
 
     ],
   },
